@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **acise314/acise314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,8 +19,9 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a passionate developer who loves working on various programming projects and exploring new technologies.
 
-## 🌱 About Me
+## 😃 About Me
 
+- 📚 I am a grade 10 pre-IB student from Toronto
 - 🔭 I’m currently working on a variety of projects to broaden my understanding of programming concepts
 - 🌱 I’m currently exploring all aspects of programming
 - 👯 I’m looking to collaborate on AI related projects
