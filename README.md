@@ -45,7 +45,7 @@ Here are some of the technologies and tools I work with:
 
 - LinkedIn: [https://www.linkedin.com/in/jessica-pu-04476b273/](https://www.linkedin.com/in/jessica-pu-04476b273/)
 - Email: [puyuhuan1@gmail.com](puyuhuan1@gmail.com)
-- Discord: acise
+- Discord: acise03
 
 ## 📂 Projects
 
