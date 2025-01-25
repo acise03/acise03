@@ -39,7 +39,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![acise314's GitHub stats](https://github-readme-stats.vercel.app/api?username=acise314&show_icons=true&theme=dark)
+![acise03's GitHub stats](https://github-readme-stats.vercel.app/api?username=acise03&show_icons=true&theme=dark)
 
 ## 🔗 Connect with Me
 
