@@ -36,11 +36,12 @@ Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python, Java, C++, HTML + JS + CSS, C#
 - Other: PyTorch, GoDot, Unity, PyGame, Swing, TomTom Api, etc.
-
+<!--
 ## 📈 GitHub Stats
 
 ![acise03's GitHub stats](https://github-readme-stats.vercel.app/api?username=acise03&show_icons=true&theme=dark)
 
+-->
 ## 🔗 Connect with Me
 
 - LinkedIn: [https://www.linkedin.com/in/jessica-pu-04476b273/](https://www.linkedin.com/in/jessica-pu-04476b273/)
